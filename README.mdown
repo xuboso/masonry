@@ -51,3 +51,5 @@ Masonry is released under the [MIT license](http://desandro.mit-license.org). Ha
 * * *
 
 Copyright :copyright: 2015 David DeSandro
+
+[related link](http://www.queness.com/post/11133/the-famous-pinterest-dynamic-grid-layout-and-design-inspirations)
